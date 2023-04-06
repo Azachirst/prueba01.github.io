@@ -3,5 +3,7 @@ body{
     background-image: url("rym.webp");
     color: white;
 }
-
+#card{
+    margin-left: 9%;
+}
 
